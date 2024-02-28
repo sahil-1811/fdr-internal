@@ -5,8 +5,9 @@ on:
     types:
       - closed
     branches:
-      - feature
-      - development
+      - Feature
+      - Development
+      - TEST
       - main
     # paths:
     #   - 'DatabaseProjectdatabasesqlserver/**'
