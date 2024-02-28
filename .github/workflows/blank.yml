@@ -16,7 +16,7 @@ permissions:
   contents: read
 jobs:
   deploy_dacpac_test:
-    if: github.event.pull_request.base.ref == 'Test'  && github.event.pull_request.merged == true
+    if: github.event.pull_request.base.ref == 'TEST'  && github.event.pull_request.merged == true
     environment: Test
     runs-on: windows-latest
     steps:
@@ -54,8 +54,7 @@ jobs:
           path: DatabaseProjectdatabasesqlserver/PostDeployment.sql       
 
   deploy_dacpac_prod:
-    if: >
-      github.event.pull_request.base.ref == 'main' && github.event.pull_request.merged == true
+    if: github.event.pull_request.base.ref == 'main' && github.event.pull_request.merged == true
     environment: Prod
     runs-on: windows-latest
     steps:
