@@ -34,7 +34,7 @@ jobs:
           path: DatabaseProjectdatabasesqlserver/bin/Debug/DatabaseProjectdatabasesqlserver.dacpac
 
       - name: Azure Login
-        run: az login
+        run: az login --use-device-code
         env:
           AZURE_CLIENT_ID: ${{ secrets.AZURE_CLIENT_ID }}
           AZURE_TENANT_ID: ${{ secrets.AZURE_TENANT_ID }}
