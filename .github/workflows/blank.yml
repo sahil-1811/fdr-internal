@@ -19,7 +19,7 @@ jobs:
   deploy_dacpac_test:
     if: github.event.pull_request.base.ref == 'TEST' 
     # && github.event.pull_request.merged == true
-    environment: test
+    environment: Test
     runs-on: windows-latest
     steps:
       - name: Checkout code
