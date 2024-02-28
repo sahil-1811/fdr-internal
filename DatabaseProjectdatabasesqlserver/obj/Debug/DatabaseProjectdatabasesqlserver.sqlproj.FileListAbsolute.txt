@@ -1,0 +1,10 @@
+c:\Users\SAHIL MODY\Desktop\pROJECT\fdr-internal\DatabaseProjectdatabasesqlserver\bin\Debug\DatabaseProjectdatabasesqlserver.dacpac
+c:\Users\SAHIL MODY\Desktop\pROJECT\fdr-internal\DatabaseProjectdatabasesqlserver\bin\Debug\DatabaseProjectdatabasesqlserver.dll
+c:\Users\SAHIL MODY\Desktop\pROJECT\fdr-internal\DatabaseProjectdatabasesqlserver\bin\Debug\DatabaseProjectdatabasesqlserver.pdb
+c:\Users\SAHIL MODY\Desktop\pROJECT\fdr-internal\DatabaseProjectdatabasesqlserver\obj\Debug\DatabaseProjectdatabasesqlserver.sqlproj.AssemblyReference.cache
+c:\Users\SAHIL MODY\Desktop\pROJECT\fdr-internal\DatabaseProjectdatabasesqlserver\obj\Debug\Model.xml
+c:\Users\SAHIL MODY\Desktop\pROJECT\fdr-internal\DatabaseProjectdatabasesqlserver\obj\Debug\refactor.xml
+c:\Users\SAHIL MODY\Desktop\pROJECT\fdr-internal\DatabaseProjectdatabasesqlserver\obj\Debug\postdeploy.sql
+c:\Users\SAHIL MODY\Desktop\pROJECT\fdr-internal\DatabaseProjectdatabasesqlserver\obj\Debug\predeploy.sql
+c:\Users\SAHIL MODY\Desktop\pROJECT\fdr-internal\DatabaseProjectdatabasesqlserver\obj\Debug\DatabaseProjectdatabasesqlserver.dll
+c:\Users\SAHIL MODY\Desktop\pROJECT\fdr-internal\DatabaseProjectdatabasesqlserver\obj\Debug\DatabaseProjectdatabasesqlserver.pdb
